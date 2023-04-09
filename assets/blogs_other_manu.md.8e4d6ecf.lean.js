@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e,N as s}from"./chunks/framework.5124499d.js";const g=JSON.parse('{"title":"表格看起来更好","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/other/manu.md"}'),n={name:"blogs/other/manu.md"},l=s("",10),o=[l];function r(i,d,c,p,h,u){return a(),e("div",null,o)}const m=t(n,[["render",r]]);export{g as __pageData,m as default};
