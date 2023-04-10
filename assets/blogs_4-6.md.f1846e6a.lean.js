@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,N as r}from"./chunks/framework.80e84516.js";const g=JSON.parse('{"title":"四月6号作业","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/4-6.md"}'),n={name:"blogs/4-6.md"},s=r("",2),o=[s];function l(_,c,d,i,h,p){return a(),e("div",null,o)}const m=t(n,[["render",l]]);export{g as __pageData,m as default};
